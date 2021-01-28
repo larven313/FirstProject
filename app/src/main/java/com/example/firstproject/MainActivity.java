@@ -61,7 +61,8 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
 //                finish();
 //                onDestroy();
-
+                //ini komentar
+                //cuma untuk test
             }
         });
         }
